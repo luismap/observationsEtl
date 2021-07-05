@@ -12,7 +12,7 @@
 mkdir observations
 cd observations
 git clone https://github.com/luismap/observationsEtl.git
-mkdir locals/data
+mkdir -p locals/data
 mkdir locals/output
 cd observationsEtl/locals
 bash download_data.bash
