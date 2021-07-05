@@ -12,9 +12,10 @@
 mkdir observations
 cd observations
 git clone https://github.com/luismap/observationsEtl.git
+cd observtionsEtl
 mkdir -p locals/data
 mkdir locals/output
-cd observationsEtl/locals
+cd locals
 bash download_data.bash
 
 ```
