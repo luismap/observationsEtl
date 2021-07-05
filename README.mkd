@@ -20,5 +20,5 @@ bash download_data.bash
 cd ..
 sbt package
 sbt test
-spark-submit --class ObservationsGenerator --package target/scala-2.12/observation-generator_2.12-0.1.jar
+spark-submit --class ObservationsGenerator target/scala-2.12/observation-generator_2.12-0.1.jar
 ```
