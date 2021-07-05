@@ -1,0 +1,14 @@
+# ETL to create a table of obeservation for foobank
+
+# Depedencies needed to run
+  * sbt 1.5
+  * scala 2.10
+  * spark 3.1
+  * sh/bash
+
+# installing pipeline
+```bash
+
+git clone 
+
+```
