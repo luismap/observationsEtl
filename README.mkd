@@ -22,3 +22,5 @@ sbt package
 sbt test
 spark-submit --class ObservationsGenerator target/scala-2.12/observation-generator_2.12-0.1.jar
 ```
+# destination format, csv lying under
+* locals/output/observations.csv
