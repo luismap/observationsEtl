@@ -1,4 +1,4 @@
-# ETL to create a table of obeservation for foobank
+# ETL to create a table of observation for foobank
 
 # Depedencies needed to run
   * sbt 1.5
