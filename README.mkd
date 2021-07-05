@@ -9,6 +9,8 @@
 # installing pipeline
 ```bash
 
-git clone 
+mkdir observations
+cd observations
+git clone https://github.com/luismap/observationsEtl.git
 
 ```
